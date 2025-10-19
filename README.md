@@ -160,7 +160,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-Your Name - [@mhmsiddiqui](www.linkedin.com/in/habeeb-mohsin-b29225254) - mhmsiddiqui17@gamil.com
+@MHMSiddiqui (www.linkedin.com/in/habeeb-mohsin-b29225254) - mhmsiddiqui17@gamil.com
 ---
 
 ## 🎓 Learning Resources
