@@ -159,8 +159,9 @@ Contributions are welcome! Here's how you can help:
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 📧 Contact
+Email:(mhmsiddiqui17@gamil.com)
+linkedin:(www.linkedin.com/in/habeeb-mohsin-b29225254)
 
-@MHMSiddiqui (www.linkedin.com/in/habeeb-mohsin-b29225254) - mhmsiddiqui17@gamil.com
 ---
 
 ## 🎓 Learning Resources
