@@ -1,5 +1,4 @@
 # Simple Calculator with GUI
-# Built by a beginner data scientist
 # This calculator performs basic arithmetic operations with a user interface
 
 import tkinter as tk
@@ -145,7 +144,7 @@ result_label = tk.Label(result_frame, textvariable=result_text,
 result_label.pack()
 
 # Footer
-footer_label = tk.Label(window, text="Made by a beginner MHMSiddiqui 🎓",
+footer_label = tk.Label(window, text="Made by a MHMSiddiqui 🎓",
                        font=("Arial", 9), bg="#f0f0f0", fg="#666666")
 footer_label.pack(side=tk.BOTTOM, pady=5)
 
