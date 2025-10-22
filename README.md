@@ -1,4 +1,4 @@
-# 🧮 Simple Calculator - Beginner Data Scientist Project
+# 🧮 Simple Calculator 
 
 A simple, user-friendly calculator application built with Python's tkinter library. Perfect for learning GUI development and basic arithmetic operations!
 
@@ -21,7 +21,7 @@ A simple, user-friendly calculator application built with Python's tkinter libra
 
 ## 🎯 About
 
-This is a simple calculator application designed and built from a beginner data scientist's perspective. The project demonstrates basic GUI programming in Python using tkinter, along with fundamental programming concepts like functions, error handling, and user input validation.
+This is a simple calculator application designed and built from a beginner  perspective. The project demonstrates basic GUI programming in Python using tkinter, along with fundamental programming concepts like functions, error handling, and user input validation.
 
 The calculator performs four basic arithmetic operations:
 - Addition
@@ -159,8 +159,8 @@ Contributions are welcome! Here's how you can help:
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 📧 Contact
-Email:(mhmsiddiqui17@gamil.com)
-linkedin:(www.linkedin.com/in/habeeb-mohsin-b29225254)
+-Email:(mhmsiddiqui17@gamil.com)
+-linkedin:(www.linkedin.com/in/habeeb-mohsin-b29225254)
 
 ---
 
